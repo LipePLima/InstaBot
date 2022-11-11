@@ -25,7 +25,9 @@
   
 ## Depoimento
 
-Este foi o primeiro projeto que me fez ter contato com programação. Foi desenvolvido em 2021, graças a ele que hoje eu resolvi desenvolver e começar minha carreira como Dev.
+Este foi o primeiro projeto que me fez ter contato com programação. Foi desenvolvido em 2021, graças a ele que hoje eu resolvi desenvolver e começar minha carreira como Dev. 
+
+OBS: 11/2022 Ainda não foi revisado, então pode ter alguns bugs ou erros. Entre em contato caso encontre!
   
 ## Contato | Redes Sociais
 
